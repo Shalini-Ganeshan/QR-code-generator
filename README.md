@@ -1,1 +1,1 @@
-# QR-code-generator-with-node.js
+# QR-code-generator
